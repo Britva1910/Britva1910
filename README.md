@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
 
 I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I developed several pet-projects using JS and TS. As I am willing to evolve as a frontend developer, I am studying Node.js and React now.
+- :telescope: I developed several pet-projects using JS and TS. As I am willing to evolve as a frontend developer, I am studying Node.js and Angular now.
 
 - :zap: In my free time, I acquired knowledge in practice. I am currently constracting CNC machine using Arduino.
 
