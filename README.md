@@ -44,6 +44,7 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
@@ -70,7 +71,7 @@ I am a Junior Front-End Developer <img src="https://media.giphy.com/media/WUlplc
 
 <div align="center">
   
-  [![codewars](https://www.codewars.com/users/Britva1910/badges/large)](https://www.codewars.com/users/username)
+  [![codewars](https://www.codewars.com/users/BBritva1910/badges/large)](https://www.codewars.com/users/username)
   
 </div>
 
