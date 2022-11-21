@@ -6,16 +6,9 @@
   <a href="https://linkedin.com/in/ivan-lashuk-b990a7201">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="[live:.cid.f6d090320f188333](https://join.skype.com/invite/I8tY10JINgqp)">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Teams-blue?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
   <div id="counter" align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-Britva1910&style=flat-square&color=blue" alt=""/>
   <h1>
